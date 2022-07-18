@@ -1,2 +1,2 @@
-# ubiquitous-waddle
+git add .# ubiquitous-waddle
 Designer portifólio
