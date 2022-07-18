@@ -393,6 +393,11 @@
     border-radius: 60px;
 }
 
+.logo-hd {
+    width: 100px;
+    background-color: #00000000;
+}
+
 .testimonial-carousel .owl-dots {
     height: 40px;
     margin-top: 25px;
